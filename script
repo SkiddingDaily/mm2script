@@ -1,5 +1,5 @@
 local function main()
-    loadstring(game:HttpGet('https://pastefy.app/0jiXNAyB/raw'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SkiddingDaily/mm2script/refs/heads/main/main'))()
 end
 local function loadui()
   loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"))()
